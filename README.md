@@ -1,4 +1,4 @@
 # First-Demo
 This is my first git repository
 <br>
-Author - Kanchan Gavde
+Author - Kanchan Gavade
